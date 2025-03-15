@@ -1,0 +1,22 @@
+[
+     {
+         "idioma": "Español",
+      "saludos": ["¡Hola!", "¡Buenos días!", "¡Qué tal!", "¡Saludos!"]
+    },
+     {
+         "idioma": "Inglés",
+         "saludos": ["Hello!", "Hi!", "Good day!", "Howdy!", "Greetings!"]
+     },
+     {
+         "idioma": "Francés",
+         "saludos": ["Bonjour!", "Salut!", "Coucou!", "Allô!", "Bienvenue!"]
+     },
+     {
+         "idioma": "Italiano",
+         "saludos": ["Ciao!", "Buongiorno!", "Salve!", "Ehilà!", "Benvenuto!"]
+     },
+     {
+         "idioma": "Alemán",
+         "saludos": ["Hallo!", "Guten Tag!", "Servus!", "Moin!", "Grüß Gott!"]
+     }
+ ]
