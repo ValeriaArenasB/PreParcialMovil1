@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="profesiones">
+        <item>Seleccione</item>
+        <item>Ingeniero</item>
+        <item>Doctor</item>
+        <item>Profesor</item>
+        <item>Abogado</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="blue">#2196F3</color>
+    <color name="green">#00FF00</color>
+    <color name="purple">#4B42C7</color>
+    <color name="silver">#C0C5C1</color>
+    <color name="softGreen">#4CAF50</color>
+    <color name="strongBlue">#002FFF</color>
+    <color name="teaGreen">#C1F7DC</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">PreParcial1</string>
+    <style name="Base.Theme.PreParcial1" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        
+    </style>
+    <style name="Theme.PreParcial1" parent="Base.Theme.PreParcial1"/>
+    <style name="TicTacToeButton">
+        <item name="android:layout_width">100dp</item>
+        <item name="android:layout_height">100dp</item>
+        <item name="android:textSize">24sp</item>
+        <item name="android:gravity">center</item>
+        <item name="android:backgroundTint"> @color/purple</item>
+    </style>
+</resources>

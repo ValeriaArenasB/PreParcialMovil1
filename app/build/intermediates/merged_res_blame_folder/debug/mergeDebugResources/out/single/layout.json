@@ -1,0 +1,74 @@
+[
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_main.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_intents.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_intents.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_countries.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_countries.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_permisos.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_permisos.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_web.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_web.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_random_greet.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_random_greet.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_country_detail.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_country_detail.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_contactos.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_contactos.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_fibonacci.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_fibonacci.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_adivinador.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_adivinador.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_factorial.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_factorial.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_lista.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_lista.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_profesion_spinner.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_profesion_spinner.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_tic_tac_toe.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_tic_tac_toe.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_profesion_result.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_profesion_result.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/item_country.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/item_country.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/contactos_adapter.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/contactos_adapter.xml"
+    },
+    {
+        "merged": "com.example.preparcial1.app-mergeDebugResources-33:/layout/activity_parciales.xml",
+        "source": "com.example.preparcial1.app-main-36:/layout/activity_parciales.xml"
+    }
+]
